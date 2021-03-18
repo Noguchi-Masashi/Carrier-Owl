@@ -3,8 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        xai: 10
-        eda: 5
+        XAI: 10
+        Explainable Artificial Intelligence: 10
+        eXplainabale AI: 10
+        explainable artificial intelligence: 10
         kaggle: 3
         resnet: 3
 

@@ -3,9 +3,10 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
+        xai: 10
+        eda: 5
         kaggle: 3
         resnet: 3
-        anomaly detection: 1
 
 # 通知の閾値
 score_threshold: 0
